@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Compose Design System</string>
+    <string name="password">Enter your password here</string>
+    <string name="pay">Pay</string>
+</resources>
